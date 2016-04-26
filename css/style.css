@@ -16,7 +16,7 @@ html {
 
 h1{
 	font-weight: bold;
-	font-size: 36px;
+	font-size: 80px;
 	margin-bottom: 20px;
 }
 
@@ -47,7 +47,7 @@ ul li {
 }
 
 .post p {
-font-size: 18px;
+font-size: 23px;
 line-height: 32px;
 font-family gergia;
 color: white;
